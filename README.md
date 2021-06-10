@@ -29,4 +29,4 @@ Men died in greater numbers and at a higher rate than women for all 3 vaccines. 
 
 Our analysis confirms that vaccine related mortality is in fact, statistically rare.
 
-All datasets, jupyter notebooks, images, and ppt files are located in the appropriately labeled folder structure of the repo.
+All datasets, jupyter notebooks, images, and csv files are located in the appropriately labeled folder structure of the repo. The PowerPoint presentation summarizing Group 1's efforts is in the Data_Visualization folder.
